@@ -3,6 +3,8 @@ let canvas;
 let bg = [];
 let gameOver = false;
 let gameStart;
+let score;
+let bomb;
 let dart;
 let ninja;
 let ninjaAnimR;
